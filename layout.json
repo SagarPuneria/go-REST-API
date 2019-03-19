@@ -1,0 +1,14 @@
+[
+  {"table_id":1 , "max_seating": 1},
+  {"table_id":2 , "max_seating": 2},
+  {"table_id":3 , "max_seating": 2},
+  {"table_id":4 , "max_seating": 2},
+  {"table_id":5 , "max_seating": 3},
+  {"table_id":6 , "max_seating": 3},
+  {"table_id":7 , "max_seating": 4},
+  {"table_id":8 , "max_seating": 4},
+  {"table_id":9 , "max_seating": 6},
+  {"table_id":10 , "max_seating": 6},
+  {"table_id":11 , "max_seating": 8},
+  {"table_id":12 , "max_seating": 12}
+]

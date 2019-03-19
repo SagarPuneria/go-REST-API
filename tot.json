@@ -1,0 +1,6 @@
+[
+  {"min_party_size":1,"max_party_size":3,"avg_tot": "15m"},
+  {"min_party_size":4,"max_party_size":5,"avg_tot": "35m"},
+  {"min_party_size":6,"max_party_size":9,"avg_tot": "50m"},
+  {"min_party_size":10,"avg_tot": "90m"}
+]
